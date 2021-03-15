@@ -2808,7 +2808,7 @@ input, select, textarea {
 				display: block;
 				height: 100%;
 				left: 0;
-				opacity: 0.85;
+				opacity: 0.58;
 				position: absolute;
 				width: 100%;
 				z-index: 2;
@@ -2851,7 +2851,7 @@ input, select, textarea {
 			}
 
 			.tiles article:nth-child(6n - 4):before {
-				background-color: #7abadc;
+				background-color: #d4768e;
 			}
 
 			.tiles article:nth-child(6n - 3):before {
